@@ -19,8 +19,6 @@ Currently, I am expanding my technical skill set at 42 Berlin, building and publ
 
 🚀 What I’m Looking For
 
-I’m seeking a long-term opportunity in:
-
 - Technical Project Management
 - Process / Industrial Engineering
 - Project Development
