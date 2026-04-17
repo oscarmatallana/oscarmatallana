@@ -1,6 +1,6 @@
 👋 About Me
 
-I work at the intersection of technology, operations, and stakeholders—where requirements need to be translated into structured solutions, processes coordinated, and outcomes delivered reliably.
+I work at the intersection of technology, operations and stakeholders, exactly where requirements need to be translated into structured solutions, processes coordinated and outcomes delivered reliably.
 
 With a background in engineering and project environments, I bring a pragmatic, execution-focused approach to complex problems. I prioritize clarity, timelines, and quality, and I’m used to aligning technical and non-technical teams toward shared goals.
 
