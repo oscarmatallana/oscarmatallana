@@ -9,12 +9,12 @@ Currently, I am expanding my technical skill set at 42 Berlin, building and publ
 
 🔧 Core Focus Areas
 
-Technical Project & Implementation Management
-Process Engineering & Optimization
-Stakeholder and Client Coordination
-Structuring complex workflows, KPIs, and operational processes
-Agile collaboration (Scrum, PSM II)
-Continuous learning in software development and systems thinking
+- Technical Project & Implementation Management
+- Process Engineering & Optimization
+- Stakeholder and Client Coordination
+- Structuring complex workflows, KPIs, and operational processes
+- Agile collaboration (Scrum, PSM II)
+- Continuous learning in software development and systems thinking
 
 
 🚀 What I’m Looking For
