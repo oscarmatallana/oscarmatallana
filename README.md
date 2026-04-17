@@ -1,4 +1,4 @@
-##👋🏽 About Me
+# About Me👋🏽
 
 I work at the intersection of technology, operations and stakeholders, exactly where requirements need to be translated into structured solutions, processes coordinated and outcomes delivered reliably.
 
