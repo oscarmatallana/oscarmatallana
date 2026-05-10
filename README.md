@@ -24,8 +24,6 @@ Currently, I am expanding my technical skill set at 42 Berlin, building and publ
 - Project Development
 - Technology-driven environments (e.g. SaaS, Energy, Environmental Tech, Chemical / Process Industries)
 
-I’m particularly interested in roles where I can take ownership, deepen my technical expertise, and contribute measurable impact through structured execution and continuous improvement.
-
 
 # Languages
 
