@@ -1,4 +1,4 @@
-# About Me👋🏽
+# About Me
 
 I work at the intersection of technology, operations and stakeholders, exactly where requirements need to be translated into structured solutions, processes coordinated and outcomes delivered reliably.
 
@@ -7,7 +7,7 @@ With a background in engineering and project environments, I bring a pragmatic, 
 Currently, I am expanding my technical skill set at 42 Berlin, building and publishing software projects that strengthen my foundation in systems programming, problem-solving, and scalable development practices. The peer-to-peer collaboration model and hybrid project management approach at 42 closely reflect real-world best practices in cross-functional teamwork across tech and other industries.
 
 
-🔧 Core Focus Areas
+# Core Focus Areas
 
 - Technical Project & Implementation Management
 - Process Engineering & Optimization
@@ -17,7 +17,7 @@ Currently, I am expanding my technical skill set at 42 Berlin, building and publ
 - Continuous learning in software development and systems thinking
 
 
-🚀 What I’m Looking For
+# What I’m Looking For
 
 - Technical Project Management
 - Process / Industrial Engineering
@@ -27,6 +27,6 @@ Currently, I am expanding my technical skill set at 42 Berlin, building and publ
 I’m particularly interested in roles where I can take ownership, deepen my technical expertise, and contribute measurable impact through structured execution and continuous improvement.
 
 
-🌍 Languages
+# Languages
 
 German · English · Spanish
