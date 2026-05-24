@@ -4,7 +4,7 @@ I work at the intersection of technology, operations and stakeholders, exactly w
 
 With a background in engineering and project environments, I bring a pragmatic, execution-focused approach to complex problems. I prioritize clarity, timelines, and quality, and I’m used to aligning technical and non-technical teams toward shared goals.
 
-Currently, I am expanding my technical skill set at 42 Berlin, building and publishing software projects that strengthen my foundation in systems programming, problem-solving, and scalable development practices. The peer-to-peer collaboration model and hybrid project management approach at 42 closely reflect real-world best practices in cross-functional teamwork across tech and other industries.
+Currently, I am expanding my technical skill set at 42 Berlin, building and publishing software projects that strengthen my foundation in systems programming, problem-solving and scalable development practices. The peer-to-peer collaboration model and hybrid project management approach at 42 closely reflect real-world best practices in cross-functional teamwork across tech and other industries.
 
 # About this profile
 
