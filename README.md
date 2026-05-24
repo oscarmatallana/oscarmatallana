@@ -17,7 +17,7 @@ This repositories combine:
 - low-level programming in C
 - beginner-friendly software engineering practices
 
-The projects are intentionally designed to remain simple, readable, realistic, useful and pedagogical while gradually introducing concepts commonly found in:
+The projects are intentionally designed to remain simple, readable, realistic, inclusive, useful and pedagogical while gradually introducing concepts commonly found in:
 - process engineering
 - embedded systems
 - automation
