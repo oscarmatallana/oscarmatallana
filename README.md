@@ -34,7 +34,7 @@ The projects are intentionally designed to remain simple, readable, realistic, u
 - Process Engineering & Optimization
 - Stakeholder and Client Coordination
 - Structuring complex workflows, KPIs, and operational processes
-- Agile collaboration (Scrum, PSM II)
+- Agile collaboration (Scrum)
 - Continuous learning in software development and systems thinking
 
 # What I like working on
