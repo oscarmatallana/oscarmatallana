@@ -56,6 +56,7 @@ Most projects are implemented using beginner-friendly syntax and simple logic to
 - Process / Industrial Engineering
 - Project Development
 - Technology-driven environments (e.g. SaaS, Energy, Environmental Tech, Chemical / Process Industries)
+- Education and Training
 
 # Languages
 
