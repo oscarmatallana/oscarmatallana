@@ -51,7 +51,7 @@ Most projects are implemented using beginner-friendly syntax and simple logic to
 - Digitalisierung
 - Stakeholder Management
 - Technical Project & Implementation Management
-- Energy Systems and Environmental Management
+- Energy Systems & Environmental Management
 - Process Engineering & Optimization
 - Structuring complex workflows, KPIs, and operational processes
 - Agile collaboration (Scrum)
