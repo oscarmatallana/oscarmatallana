@@ -17,6 +17,7 @@ This repositories combine:
 - systems logic
 - automation fundamentals
 - low-level programming in C
+- Basic projects in Python
 - beginner-friendly software engineering practices
 
 The projects are intentionally designed to remain simple, readable, realistic, inclusive, useful and pedagogical while gradually introducing concepts commonly found in:
@@ -42,22 +43,28 @@ Most projects are implemented using beginner-friendly syntax and simple logic to
 
 ---
 
-# Core Focus Areas
+# Areas of interest
 
+- Servant Leadership
+- Organisationsentwicklung
+- Prozessmanagement
+- Digitalisierung
+- Stakeholder Management
 - Technical Project & Implementation Management
-- Energy Systems
+- Energy Systems and Environmental Management
 - Process Engineering & Optimization
-- Stakeholder and Client Coordination
 - Structuring complex workflows, KPIs, and operational processes
 - Agile collaboration (Scrum)
-- Continuous learning in software development and systems thinking
+- Continuous learning, software development and systems thinking
 
 # What I like working on
 
+- Servant Leadership
+- Organisationsentwicklung
 - Technical Project Management
 - Process / Industrial Engineering
 - Project Development
-- Technology-driven environments (e.g. SaaS, Energy, Environmental Tech, Chemical / Process Industries)
+- Technology-driven environments (e.g. SaaS, Health as a Service (HaaS), Energy, Environmental Tech, Chemical / Process Industries)
 - Education and Training
 
 # Languages
