@@ -46,9 +46,9 @@ Most projects are implemented using beginner-friendly syntax and simple logic to
 # Areas of interest
 
 - Servant Leadership
-- Organisationsentwicklung
-- Prozessmanagement
-- Digitalisierung
+- Organizational Development
+- Process Management
+- Digitalisation
 - Stakeholder Management
 - Technical Project & Implementation Management
 - Energy Systems & Environmental Management
@@ -60,7 +60,7 @@ Most projects are implemented using beginner-friendly syntax and simple logic to
 # What I like working on
 
 - Servant Leadership
-- Organisationsentwicklung
+- Organizational Development
 - Technical Project Management
 - Process / Industrial Engineering
 - Project Development
